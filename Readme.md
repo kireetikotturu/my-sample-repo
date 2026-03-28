@@ -1,1 +1,1 @@
-this is my first sample repo
+this is my first sample repository
